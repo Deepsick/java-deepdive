@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: academy.kovalevskyi.javadeepdive.week0.day0.StdBufferedReader
